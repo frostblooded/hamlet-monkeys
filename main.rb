@@ -1,4 +1,3 @@
-puts "Let's see how many possible outcomes there could be if a monkey typed a random symbol (from all symbols that appear in Hamlet) and did this as many times as necessary to reach the length of the complete Hamlet play:"
 text = File.read('text.txt')
 puts "Hamlet has #{text.size} symbols total"
 unique_chars = text.chars.to_a.uniq

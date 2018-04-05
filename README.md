@@ -1,0 +1,1 @@
+The program calculates how many possible outcomes there could be if a monkey typed a random symbol(from all of the symbols that appear in Hamlet) and does this enough times as to get a text with the length of the complete Hamlet play.
